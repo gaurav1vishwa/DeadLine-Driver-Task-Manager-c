@@ -1,0 +1,5 @@
+/* Global resets — component-level styling lives in style.css */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
